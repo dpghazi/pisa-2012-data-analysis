@@ -14,4 +14,4 @@ Implemented univariate, bivariate, and multivariate Analyses to see how students
 * Python (Pandas, NumPy, Matplotlib)
 
 ## Featured Notebook
-* [PISA 2012 Data Analysis](https://dpghazi.github.io/projects/pisa-2012-data-analysis.html)
+* [PISA 2012 Data Analysis](https://dpghazi-da-nano.s3.amazonaws.com/pisa-2012-da.html)
